@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../movie-system/.vscode"
+		},
+		{
+			"name": "miniature-happiness",
+			"path": "../../movie-system/miniature-happiness"
+		},
+		{
+			"path": "../../movie-system/client"
+		},
+		{
+			"path": "../../movie-system/server"
+		}
+	],
+	"settings": {}
+}
